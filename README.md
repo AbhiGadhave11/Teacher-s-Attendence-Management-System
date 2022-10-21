@@ -9,3 +9,7 @@
 
 
 4.Java Database Connectivity(JDBC) is an important factor in this project.
+
+
+![Screenshot from 2022-10-22 00-57-07](https://user-images.githubusercontent.com/91112733/197276192-26fb9ad8-8e94-49d9-bbcc-6f35ab55f6dc.png)
+
